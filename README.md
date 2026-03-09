@@ -7,7 +7,7 @@ Developed an end-to-end Power BI solution for a US-based Ecommerce company to so
 This project delivers a real-time visualization of key performance metrics, enabling stakeholders (from executives to logistics managers) to identify trends, pinpoint geographic bottlenecks, and make data-driven decisions to optimize the sales pipeline.
 
 ## 2. Live Dashboard View
-
+![Ecommerce Sales Dashboard](./Dashboard.png)
 > **Placeholder:** To add your screenshot, name your image file `Dashbaord.png`, upload it to this GitHub repository, and then uncomment the line below:
 
 
@@ -45,6 +45,7 @@ This project demonstrates proficiency across the entire data analysis lifecycle 
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Open the `.pbix` file included in this repository.
 4. If the data sources are not dynamic, adjust the source paths in Power Query to match your local file structure.
+
 
 
 
