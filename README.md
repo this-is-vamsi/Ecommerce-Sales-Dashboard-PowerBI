@@ -1,4 +1,4 @@
-# Comprehensive Ecommerce Sales Analysis Dashboard | Power BI
+# Ecommerce Sales Analysis Dashboard | Power BI
 
 ## 1. Project Overview & Business Case
 
@@ -8,7 +8,7 @@ This project delivers a real-time visualization of key performance metrics, enab
 
 ## 2. Live Dashboard View
 
-> **Placeholder:** To add your screenshot, name your image file `dashboard_screenshot.png`, upload it to this GitHub repository, and then uncomment the line below:
+> **Placeholder:** To add your screenshot, name your image file `Dashbaord.png`, upload it to this GitHub repository, and then uncomment the line below:
 
 Alternatively, you can place a screenshot here for immediate visibility when your repository loads.
 
@@ -46,3 +46,4 @@ This project demonstrates proficiency across the entire data analysis lifecycle 
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Open the `.pbix` file included in this repository.
 4. If the data sources are not dynamic, adjust the source paths in Power Query to match your local file structure.
+
